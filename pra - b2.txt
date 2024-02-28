@@ -1,0 +1,5 @@
+brieving
+apps: parkwebsite, kassa-systeem en attractie apps
+talen: HTML, CSS
+type: front-end
+waar: de placeholder
